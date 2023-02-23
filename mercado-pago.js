@@ -1,0 +1,1 @@
+const m = 'MERCADO_PAGO'
